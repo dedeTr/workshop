@@ -1,3 +1,3 @@
-import View from "./View.js";
+import View from "./View.jsx";
 
 export default View
